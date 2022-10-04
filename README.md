@@ -42,7 +42,7 @@ down into multiple commits. You can even use emojis here too :sparkles:
 ---
 
 
-### 3. Lastly, submit your Pull Request 😎
+### 3. Lastly, submit your Pull Request! 😎
 Go through the checklist on the pull request template to guarantee your submission is valid and not a spam. Our team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested in the pull request comment section. And If spam, your PR will be marked as spam, and 2 or more spammy PRs/MRs will be Disqualified from Hacotoberfest 2022  
 
 <b>Note :- Please check first and then send your codes with discription.</b>
