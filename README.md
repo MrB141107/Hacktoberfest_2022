@@ -18,7 +18,7 @@
 ## Now How to do the contributions ⁉️ 💭
 
 ### 1. Fork This Repository 🍴
-Fork this repository and then make some changes in the code to contribute. You can change it online or by cloning it in your device. Then Pust it on your Forked Repo for further Actions.
+Fork this repository and then make some changes in the code to contribute. You can change it online or by cloning it in your device. Then Push it on your Forked Repo for further Actions.
 
 ### 2. Write a Good Commit Message 😇
 You have written some valiad quality code in your branch, and are ready to commit. So, make sure to written good, clean commit message. 
