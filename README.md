@@ -51,8 +51,8 @@ Go through the checklist on the pull request template to guarantee your submissi
 
 ### Our contributors:- 
 
-<a href="https://github.com/IncrediblePro/Hacktoberfest-2022/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=IncrediblePro/Hacktoberfest-2022" />
+<a href="https://github.com/MrB141107/Hacktoberfest_2022/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MrB141107/Hacktoberfest_2022" />
 </a>
 
 ### "All the best for the event" ✨
