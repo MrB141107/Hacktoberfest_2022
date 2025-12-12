@@ -15,9 +15,24 @@ def alarm():
         time.sleep(1)
         current_time = datetime.datetime.now().strftime("%H:%M:%S")
         print(current_time,set_alarm_time)
+
+        hur_set = int(f"{hur.get()}")
+        hur_now = int(datetime.datetime.now().strftime("%H"))
+        min_set = int(f"{min.get()}")
+        min_now = int(datetime.datetime.now().strftime("%M"))
+        sec_set = int(f"{sec.get()}")
+        sec_now = int(datetime.datetime.now().strftime("%S"))
+
+        hur_set_format = hur_set * 3600 + min_set * 60 + sec_set
+        hur_now_format = hur_now * 3600 + min_now * 60 + sec_now
+
+        if hur_set_format < hur_now_format:
+            print("Error : alarm set in the past")
+            break
  
         if current_time == set_alarm_time:
             print("Good Morning !!!")
+            winsound.Beep(2000,1000)
 Label(find,text="Alarm Clock",font=("Helvetica 20 bold"),fg="blue").pack(pady=10)
 Label(find,text="Set Time",font=("Helvetica 15 bold")).pack()
  
